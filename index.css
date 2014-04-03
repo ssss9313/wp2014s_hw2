@@ -1,0 +1,79 @@
+h1{
+left:10em;
+color:red;
+}
+
+ul,p{
+font-family:"Comic Sans MS", cursive, sans-serif
+}
+
+html {
+	width: 960px;
+	height:880px;
+	margin-left: auto;
+	margin-right: auto;
+    background-color:cornsilk;
+	
+}
+body {
+	font-family:Impact, Charcoal, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	background-color: #ffffff;
+}
+
+.work h2{
+color:honeydew;
+}
+
+.family h2{
+color:blueviolet;
+}
+
+.future h2{
+color:orange;
+}
+
+.hobby h2{
+color:aqua;
+}
+
+.education h2{
+color:yellow;
+}
+
+.birth h2{
+color:lime;
+}
+
+.name h2{
+color:blue;
+}
+
+#top {
+	background-color: silver;
+	padding:0 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float:left;
+	width:900px;
+}
+
+#left {
+	background-color: burlywood;
+	padding:0 10px;
+	margin-top: 50px;
+	margin-left: 10px;
+	float:left;
+	width:240px;
+	
+}
+
+#right {
+	background-color: cornflowerblue;
+	padding:0 10px;
+	margin-top: 20px;
+	margin-left: 25px;
+	float:left;
+	width:600px;
+}
